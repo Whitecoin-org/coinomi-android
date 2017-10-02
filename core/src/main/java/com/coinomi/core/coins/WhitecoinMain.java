@@ -18,7 +18,7 @@ public class WhitecoinMain extends PeerFamily {
         name = "Whitecoin";
         symbol = "XWC";
         uriScheme = "whitecoin";
-        bip44Index = 10;
+        bip44Index = 155;
         unitExponent = 8;
         feeValue = value(10000); // 0.0001 XWC
         minNonDust = value(1);
